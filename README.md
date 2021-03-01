@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="preview" src=".github/preview.png" width="75%">
+  <img alt="C" src="https://user-images.githubusercontent.com/9035218/109482583-f15e4880-7a5c-11eb-954c-c5af11c78395.png" width="50%" height="50%">
 </p>
 
 ## :notebook: Conteúdo
