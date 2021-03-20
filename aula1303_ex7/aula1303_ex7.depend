@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615643354 source:c:\fatec\lpnoite\aula1303_ex7\main.c
+	<stdio.h>
+	<stdlib.h>
+
