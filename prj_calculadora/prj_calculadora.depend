@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616851484 source:/home/maromo/fatec/lpnoite/prj_calculadora/calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1616851164 /home/maromo/fatec/lpnoite/prj_calculadora/calculadora.h
+
+1616852183 source:/home/maromo/fatec/lpnoite/prj_calculadora/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
