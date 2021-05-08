@@ -5,7 +5,7 @@ int main()
 {
     int alvo = 5000;
 
-
+    system("clear");
     int * p_alvo = &alvo;
 
     int chacara = 3000;

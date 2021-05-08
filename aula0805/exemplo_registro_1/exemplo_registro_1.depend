@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620479409 source:/home/maromo/fatec/lpnoite/aula0805/exemplo_registro_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.c"
+
+1620478774 /home/maromo/fatec/lpnoite/aula0805/exemplo_registro_1/funcoes.c
+
+1620478774 source:/home/maromo/fatec/lpnoite/aula0805/exemplo_registro_1/funcoes.c
+

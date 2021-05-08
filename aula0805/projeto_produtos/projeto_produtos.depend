@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620484007 source:/home/maromo/fatec/lpnoite/aula0805/projeto_produtos/main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
+1620480970 /home/maromo/fatec/lpnoite/aula0805/projeto_produtos/produto.h
+
+1620481588 source:/home/maromo/fatec/lpnoite/aula0805/projeto_produtos/produto.c
+	<string.h>
+	<stdio.h>
+	"produto.h"
+
