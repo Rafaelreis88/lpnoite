@@ -1,0 +1,4 @@
+Lucas   10  8
+Pedro   8   8
+Antonio 9.6 10
+Maria   6  5
